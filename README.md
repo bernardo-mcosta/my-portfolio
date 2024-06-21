@@ -22,5 +22,5 @@ This repository contains SQL queries and analysis for a dataset on CO2 emissions
 ### [SQL - House Market Data Cleaning](https://github.com/bernardo-mcosta/SQL-projects/tree/main/Housing_Market_Cleaning)
 This repository contains SQL queries and data cleaning operations performed on a dataset containing sale data from the Nashville housing market. The dataset captures details on property sales, addresses, dates, and other relevant information.
 
-[Data Science Projects](https://github.com/bernardo-mcosta/data-science-projects)
+### [Data Science Projects](https://github.com/bernardo-mcosta/data-science-projects)
 These are projects focused on learning the key aspects of machine learning and data science, overall libraries usage, data manipulation and data visualization. Some of them are case studies from Data Science courses I've took.
