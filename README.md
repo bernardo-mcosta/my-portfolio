@@ -1,6 +1,7 @@
 # Bernardo Costa's Data Portfolio
 
-I'm on a journey to transition into Data Engineering. Thank you for passing by! Please, feel free to explore the projects below and contact me if you want to talk!
+I'm on a journey to transition into Data Engineering. Thank you for passing by! 
+Please, feel free to explore the projects below and contact me if you want to talk!
 [LinkedIn](https://www.linkedin.com/in/bernardo-m-costa/)
 
 ### [Data Engineering - Electric Vehicle Activity Pipeline](https://github.com/bernardo-mcosta/Electric-Vehicle-Activity)
